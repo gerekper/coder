@@ -56,10 +56,10 @@ export type Config = {
 const themeConfig: Config = {
   templateName: 'Materialize',
   homePageUrl: '/dashboards/crm',
-  settingsCookieName: 'materialize-mui-next-demo-1',
-  mode: 'system', // 'system', 'light', 'dark'
+  settingsCookieName: 'washee',
+  mode: 'light', // 'system', 'light', 'dark'
   skin: 'default', // 'default', 'bordered'
-  semiDark: false, // true, false
+  semiDark: true, // true, false
   layout: 'vertical', // 'vertical', 'collapsed', 'horizontal'
   layoutPadding: 24, // Common padding for header, content, footer layout components (in px)
   compactContentWidth: 1440, // in px
