@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.extension.toc.updateOnSave": false,
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"DockerRun.DisableAutoGenerateConfig": true
+	}
+}
