@@ -21,8 +21,6 @@
     "yoavbls.pretty-ts-errors",
     "jasonnutter.search-node-modules",
     "stylelint.vscode-stylelint",
-    "styled-components.vscode-styled-components",
-    "colourafredi.vscode-deepseek",
-    "kodu-ai.claude-dev-experimental"
+    "styled-components.vscode-styled-components"
   ]
 }

@@ -49,6 +49,5 @@
     "customizer",
     "iconify",
     "tanstack"
-  ],
-  "DockerRun.DisableAutoGenerateConfig": true
+  ]
 }
